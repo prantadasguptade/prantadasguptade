@@ -11,6 +11,7 @@
 Data Analyst with **5+ years of experience** at PwC and Tata AIG, specializing in solving real-world business problems using data.
 
 I focus on transforming raw data into actionable insights that improve decision-making and business performance.
+> 🏆 Top 100 Innovation Award — PwC Internal Competition (Mail-Shield Project)
 
 ---
 
