@@ -1,73 +1,83 @@
 # 👋 Hi, I'm Pranta Dasgupta
 
-**Data Analyst | Business Analytics | AI-Driven Solutions**
+**Data Analyst | Business Analytics | AI & Automation Solutions**
 
-📍 India | 🎯 Target: Germany (MSc Business Analytics / Digital Engineering / Data Analytics)
+📍 India | 🎯 Targeting MSc Business Analytics / Digital Engineering — Germany
+
+> 🏆 **Top 100 Innovation Award — PwC Internal Competition** (Mail-Shield Project)
 
 ---
 
 ## 🚀 About Me
 
-Data Analyst with **5+ years of experience** at PwC and Tata AIG, specializing in solving real-world business problems using data.
+Data Analyst with **5+ years of experience** at PwC and Tata AIG, specialising in
+solving real-world business problems through data, automation, and AI-driven workflows.
 
-I focus on transforming raw data into actionable insights that improve decision-making and business performance.
-> 🏆 Top 100 Innovation Award — PwC Internal Competition (Mail-Shield Project)
+I focus on transforming raw data into actionable insights — building dashboards,
+risk models, and automated systems that directly improve business performance.
 
 ---
 
 ## 🧠 Skills & Tools
 
-* **Languages & Tools:** SQL, Python (Pandas, NumPy), Excel
-* **Visualization:** Power BI
-* **Concepts:** Data Analysis, Machine Learning (Basics), Business Analytics
-* **Other Tools:** ServiceNow, Learning Management Systems (CSOD)
+| Category | Tools |
+|---|---|
+| **Data Analysis** | SQL, Python (Pandas, NumPy), Advanced Excel |
+| **Visualisation** | Power BI, DAX |
+| **AI & Automation** | Microsoft Copilot, Power Automate, Amazon Bedrock |
+| **Analytics Concepts** | Business Analytics, Risk Scoring, Feature Engineering |
+| **Other** | ServiceNow, CSOD (Learning Management Systems) |
 
 ---
 
 ## 📊 Featured Projects
 
-### 🔹 Training Performance Risk Analytics
+### 🛡️ Mail-Shield: AI-Powered Phishing Detection & Reporting System
 
-📌 Predicting and identifying high-risk learners using data
+> 🏆 Top 100 — PwC Internal Innovation Competition
 
-* Built a risk scoring model for training performance
-* Performed data cleaning, feature engineering, and analysis
-* Created insights for better decision-making
+📌 Automated phishing detection and reporting workflow built for enterprise scale
 
-👉 https://github.com/prantadasguptade/training-performance-risk-analytics
+- Designed end-to-end workflow using **Power Automate + Microsoft Copilot + M365**
+- Reduced phishing reporting time from ~5 minutes to **near-instant execution**
+- Saved approximately **42 business hours per team**
+- Built dashboards for real-time threat monitoring and cybersecurity response
+- Python simulation of detection logic available in this repo
 
----
-
-### 🔹 Mail Shield – Phishing Detection
-
-📌 Machine Learning-based phishing detection system
-
-* Built classification model to detect phishing emails
-* Applied feature engineering and model evaluation
-* Focused on real-world cybersecurity application
-
-👉 https://github.com/prantadasguptade/mail-shield-phishing-detection
+👉 [View Project](https://github.com/prantadasguptade/mail-shield-phishing-detection)
 
 ---
 
-## 📈 What I’m Currently Doing
+### 📈 Training Performance Risk Analytics
 
-* Preparing for MSc in Germany (Business Analytics / Digital Engineering)
-* Building strong data analytics & machine learning projects
-* Improving SQL, Python, and data storytelling skills
+📌 Data-driven system to identify high-risk learners and enable early intervention
+
+- Built a **risk scoring model** using training attendance, scores, and engagement data
+- Performed data cleaning, feature engineering, and pattern analysis
+- Created **Power BI dashboards** for decision support
+- Enabled targeted intervention to improve training ROI
+
+👉 [View Project](https://github.com/prantadasguptade/training-performance-risk-analytics)
+
+---
+
+## 📈 What I'm Currently Working On
+
+- Preparing for MSc admission in Germany (Business Analytics / Digital Engineering)
+- Deepening skills in Python, SQL, and data storytelling
+- Building portfolio projects that bridge analytics and real business impact
 
 ---
 
 ## 🎯 Career Goal
 
-To work as a **Data Analyst in Germany**, contributing to data-driven decision-making and scalable analytics solutions.
+To work as a **Data Analyst / Business Analytics professional in Germany**,
+contributing to data-driven decision-making, process automation, and scalable
+analytics solutions in an international environment.
 
 ---
 
 ## 📬 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/prantadasgupta/
-* Email: pranta.dasgupta.de@gmail.com
-
----
-
+- 🔗 LinkedIn: [linkedin.com/in/prantadasgupta](https://www.linkedin.com/in/prantadasgupta/)
+- 📧 Email: pranta.dasgupta.de@gmail.com
