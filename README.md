@@ -61,6 +61,18 @@ risk models, and automated systems that directly improve business performance.
 
 ---
 
+###📱💪 Bellabeat Engagement Risk Analysis
+📌 dentifying early behavioural signals of device disengagement using FitBit tracker data to inform Bellabeat's onboarding strategy
+
+- Identified early device disengagement signals using FitBit data.
+- Built engagement risk score in BigQuery, visualised in R, 
+- delivered as 3-page interactive Power BI dashboard.
+  
+👉 [View Project](https://github.com/prantadasguptade/bellabeat-engagement-risk-analysis)
+Tools: BigQuery · R · Power BI · Excel
+
+---
+
 ## 📈 What I'm Currently Working On
 
 - Preparing for MSc admission in Germany (Business Analytics / Digital Engineering)
