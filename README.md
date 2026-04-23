@@ -61,8 +61,9 @@ risk models, and automated systems that directly improve business performance.
 
 ---
 
-###📱💪 Bellabeat Engagement Risk Analysis
-📌 dentifying early behavioural signals of device disengagement using FitBit tracker data to inform Bellabeat's onboarding strategy
+### 📱💪 Bellabeat Engagement Risk Analysis
+
+📌 Identifying early behavioural signals of device disengagement using FitBit tracker data to inform Bellabeat's onboarding strategy
 
 - Identified early device disengagement signals using FitBit data.
 - Built engagement risk score in BigQuery, visualised in R, 
