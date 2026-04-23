@@ -70,9 +70,7 @@ risk models, and automated systems that directly improve business performance.
 - delivered as 3-page interactive Power BI dashboard.
   
 👉 [View Project](https://github.com/prantadasguptade/bellabeat-engagement-risk-analysis)
-Tools: BigQuery · R · Power BI · Excel
 
----
 
 ## 📈 What I'm Currently Working On
 
